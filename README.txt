@@ -4,3 +4,5 @@ Johannes Köppern
 Environment: mind_map
 
 Install Graphviz and add to system path: https://forum.graphviz.org/t/new-simplified-installation-procedure-on-windows/224
+
+Hosted in Streamlit Cloud at: 
