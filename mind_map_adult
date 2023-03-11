@@ -1,0 +1,15 @@
+digraph {
+	Adult [shape=ellipse]
+	no [shape=ellipse]
+	Adult -> no
+	claudia [shape=box]
+	no -> claudia
+	daniela [shape=box]
+	no -> daniela
+	yes [shape=ellipse]
+	Adult -> yes
+	anton [shape=box]
+	yes -> anton
+	berta [shape=box]
+	yes -> berta
+}

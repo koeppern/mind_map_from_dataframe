@@ -1,0 +1,17 @@
+digraph {
+	Sex [shape=ellipse]
+	female [shape=ellipse]
+	Sex -> female
+	berta [shape=box]
+	female -> berta
+	claudia [shape=box]
+	female -> claudia
+	daniela [shape=box]
+	female -> daniela
+	male [shape=ellipse]
+	Sex -> male
+	anton [shape=box]
+	male -> anton
+	emil [shape=box]
+	male -> emil
+}

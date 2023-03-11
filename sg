@@ -1,0 +1,10 @@
+digraph {
+	rankdir=LR size="8,5"
+	node [shape=circle]
+	Account1
+	Account2
+	Account3
+	Account1 -> Account2 [label=20]
+	Account1 -> Account3 [label=50]
+	Account3 -> Account1 [label=60]
+}
